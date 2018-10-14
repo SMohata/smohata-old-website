@@ -126,12 +126,15 @@ p {
   }
 }
 
-@media only screen and (max-width: 100px) {
+@media only screen and (max-width: 600px) {
   h1 {
     font-size: 15px;
   }
   h1::after {
     height: 4px;
+  }
+  .btext {
+    font-size: 16px;
   }
 }
 
