@@ -1,8 +1,0 @@
-{
-    "name": "EmissionCoin",
-    "github_link": "https://github.com/SMohata/EmissionCoin",
-    "short_description": "A UC Berkeley based startup that incentivizes people to act in sustainable ways",
-    "live": false,
-    "description": "To inspire individuals and corporations to be more green, developed a green platform that incentivizes employees to reduce their carbon footprint and improve their company's corporate social responsibility (CSR) score. During the project, analyzed employee behavior and drew inferences about the economic effects of carbon reduction on the company. On completion of various sustainable tasks, the participant is rewarded non-fungible tokens (ERC721).",
-    "tech_stack": "Solidity, JavaScript, Python"
-}
