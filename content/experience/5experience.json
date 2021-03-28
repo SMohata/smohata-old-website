@@ -1,0 +1,16 @@
+{
+    "company": "Next Tech Lab",
+    "company_website": "https://nextech-web.web.app/home",
+    "role": "AI Researcher",
+    "contract": {
+        "type": "Chennai, IND",
+        "live": false
+    },
+    "duration": "August, 2016 - December, 2019",
+    "description": "Next Tech is QS award-winning India's first multi-disciplinary undergraduate research lab. The lab pursues research and development to drive innovation in various fields. During my time there, I was part of the McCarthy Lab (formerly known as Minky Lab). The lab aims to understand architectures that exhibit 'intelligence' and deploy novel models to solve real-world problems. My activities at the lab included:",
+    "tasks": [
+        "Spearheading 50+ students working on various research projects related to Deep Learning and Artificial Intelligence.",
+        "Actively contributed to the field of emerging technologies like distributed systems and fintech technologies.",
+        "Successfully mentored a team of young individuals and collaborated with teams to build inter-disciplinary products."
+    ]
+}

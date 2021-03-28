@@ -1,0 +1,60 @@
+{
+    "skills": [
+        {
+            "name": "Python",
+            "icon": "python.svg"
+        },
+        {
+            "name": "PySpark",
+            "icon": "spark.png"
+        },
+        {
+            "name": "SQL",
+            "icon": "mysql.svg"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "javascript.svg"
+        },
+        {
+            "name": "Tailwind CSS",
+            "icon": "tailwind.png"
+        },
+        {
+            "name": "Docker",
+            "icon": "docker.png"
+        },
+        {
+            "name": "Kubernetes",
+            "icon": "kubernetes.svg"
+        },
+        {
+            "name": "Git",
+            "icon": "git.svg"
+        },
+        {
+            "name": "PKS",
+            "icon": "pks.png"
+        },
+        {
+            "name": "Hadoop",
+            "icon": "hadoop.svg"
+        },
+        {
+            "name": "ECS",
+            "icon": "dell.png"
+        },
+        {
+            "name": "PostgreSQL",
+            "icon": "postgresql.svg"
+        },
+        {
+            "name": "MongoDB",
+            "icon": "mongodb.svg"
+        },
+        {
+            "name": "Grafana",
+            "icon": "grafana.svg"
+        }
+    ]
+}

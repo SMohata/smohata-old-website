@@ -1,0 +1,18 @@
+{
+    "company": "Dell Technologies",
+    "company_website": "https://www.delltechnologies.com/en-in/index.htm",
+    "role": "Software Engineer Intern",
+    "contract": {
+        "type": "Bengaluru, IND",
+        "live": false
+    },
+    "duration": "Feb, 2020 - May, 2020",
+    "description": "I was an engineering intern for the EBIA team at Dell during my final semester. This program aims to leverage Artificial Intelligence for data personalization. I was primarily working on the project 'JARVIS,' a chatbot for sales data. My tasks included:",
+    "tasks": [
+        "Developing emailing feature of specific messages and alerts and integrating it with the chatbot.",
+        "Developing and enhancing the chatbot to be multi-lingual (Portuguese and French), increasing the audience base by 40%.",
+        "Experimenting and developing methods for automated testing of the RASA chatbot.",
+        "Enhancing the NLU and training corpus, raising the model's performance by 20%, thereby improving customer satisfaction.",
+        "Driving a proof of concept for the Dell.com website and presenting it to stakeholders, deriving meaningful insights."
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Software Engineering Trends",
+    "github_link": "https://github.com/niladridutt/docker-hub-data",
+    "short_description": "Worked on a project for Docker Inc",
+    "live": false,
+    "description": "An end-to-end framework helps companies predict software engineering trends and the developers to know more about a docker image. The project was done under the mentorship of Nandhini from Docker, with the aim to gather data from Docker Hub and analyze the trends. (Docker Hub is a cloud-based repository in which Docker users and partners create, test, store and distribute container images.)",
+    "tech_stack": "Python, Pandas, Matplotlib, Seaborn, boto3"
+}

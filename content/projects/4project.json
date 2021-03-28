@@ -1,0 +1,8 @@
+{
+    "name": "Colour-to-Sketch",
+    "github_link": "https://github.com/SMohata/colour-to-sketch",
+    "short_description": "Converts images to sketches in a fun way",
+    "live": false,
+    "description": "Developed a model to produce pencil drawings from natural images. The results contain various natural strokes mimicking human styles and are structurally representative. An image is an array of numbers to Python, performed variety of matrix manipulations to get some fascinating results. This project shows how to reduce an image into a 'pencil' outline.",
+    "tech_stack": "OpenCV, Python"
+}

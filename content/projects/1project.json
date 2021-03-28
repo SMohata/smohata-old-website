@@ -1,0 +1,8 @@
+{
+    "name": "Betcy - Bet a Macy",
+    "github_link": "https://github.com/SMohata/bet.cy",
+    "short_description": "A smart betting platform",
+    "live": false,
+    "description": "An amazon Alexa skill to create a trackable bet using Macy's product as a wager. The project enables you to easily create a smart contract for a bet between 2 parties with a stake. The bet and the wager (that can be a product from Macy's) will get deployed on the Ethereum blockchain. Using Betcy's Alexa skill to create a smart contract using just your voice is the most convenient way to create a smart contract.",
+    "tech_stack": "Node.js, AWS Lambda, Python, Solidity, Ethereum Framework"
+}
