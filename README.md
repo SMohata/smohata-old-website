@@ -32,9 +32,4 @@ $ yarn generate
 
 ## Credits & Inspiration ⛵
 
-<div align="center">
-
 This website was built and designed by [@bchiang7](https://github.com/bchiang7) and was inspired by [norman-portfolio](https://github.com/ekaranjaa).
-
-</div>
-
